@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+./ezpyzgcms/Completo_Functions.py
+./ezpyzgcms/Completo_Script_0.3.1_LinVers.py
+./ezpyzgcms/__init__.py
+EZPyZGCMS.egg-info/PKG-INFO
+EZPyZGCMS.egg-info/SOURCES.txt
+EZPyZGCMS.egg-info/dependency_links.txt
+EZPyZGCMS.egg-info/top_level.txt
+ezpyzgcms/Completo_Functions.py
+ezpyzgcms/Completo_Script_0.3.1_LinVers.py
+ezpyzgcms/__init__.py

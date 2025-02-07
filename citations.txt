@@ -1,0 +1,37 @@
+biopython==1.79 https://academic.oup.com/bioinformatics/article/25/11/1422/330687
+
+matplotlib==3.4.3 (APA) Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science &amp; Engineering, 9(3), 90–95.
+
+numpy==1.21.2 (APA) Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585, 357–362. https://doi.org/10.1038/s41586-020-2649-2
+
+pandas==1.3.3 (APA) McKinney, W., & others. (2010). Data structures for statistical computing in python. In Proceedings of the 9th Python in Science Conference (Vol. 445, pp. 51–56).
+Pillow==8.3.2 (APA) Clark, A. (2015). Pillow (PIL Fork) Documentation. readthedocs. Retrieved from https://buildmedia.readthedocs.org/media/pdf/pillow/latest/pillow.pdf
+
+PyMassSpec==2.3.0 Original Pub: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-115
+pymzml==2.5.0 M Kösters, J Leufken, S Schulze, K Sugimoto, J Klein, R P Zahedi, M Hippler, S A Leidel, C Fufezan; pymzML v2.0: introducing a highly compressed and seekable gzip format, Bioinformatics, doi: https://doi.org/10.1093/bioinformatics/bty046
+
+regex==2021.9.24 (APA) Van Rossum, G. (2020). The Python Library Reference, release 3.8.2. Python Software Foundation.
+scipy==1.7.1 Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, Stéfan J. van der Walt, Matthew Brett, Joshua Wilson, K. Jarrod Millman, Nikolay Mayorov, Andrew R. J. Nelson, Eric Jones, Robert Kern, Eric Larson, CJ Carey, İlhan Polat, Yu Feng, Eric W. Moore, Jake VanderPlas, Denis Laxalde, Josef Perktold, Robert Cimrman, Ian Henriksen, E.A. Quintero, Charles R Harris, Anne M. Archibald, Antônio H. Ribeiro, Fabian Pedregosa, Paul van Mulbregt, and SciPy 1.0 Contributors. (2020) SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17(3), 261-272.
+
+
+Cftime. (2022). [Python]. Unidata. https://github.com/Unidata/cftime (Original work published 2016)
+Coombs, J. R. (2022). Jaraco/zipp [Python]. https://github.com/jaraco/zipp (Original work published 2018)
+Curtin, B. (2022). Briancurtin/deprecation [Python]. https://github.com/briancurtin/deprecation (Original work published 2017)
+Dateutil/dateutil. (2022). [Python]. dateutil. https://github.com/dateutil/dateutil (Original work published 2014)
+Davis-Foster, D. (2021). Sdjson [Python]. https://github.com/domdfcoding/singledispatch-json (Original work published 2020)
+Davis-Foster, D. (2022). Domdf_python_tools [Python]. https://github.com/domdfcoding/domdf_python_tools (Original work published 2019)
+Davis-Foster, D. (2022). Enum Tools [Python]. https://github.com/domdfcoding/enum_tools (Original work published 2020)
+
+Morton, S. (2022). Natsort [Python]. https://github.com/SethMMorton/natsort (Original work published 2012)
+Netcdf4-python. (2022). [Cython]. Unidata. https://github.com/Unidata/netcdf4-python (Original work published 2014)
+
+Openpyxl / openpyxl. (n.d.). GitLab. Retrieved April 11, 2022, from https://foss.heptapod.net/openpyxl/openpyxl
+Packaging. (2022). [Python]. Python Packaging Authority. https://github.com/pypa/packaging (Original work published 2014)
+Peterson, B. (2022). Benjaminp/six [Python]. https://github.com/benjaminp/six (Original work published 2017)
+PyMassSpec. (2022). [Python]. PyMassSpec. https://github.com/PyMassSpec/PyMassSpec (Original work published 2019)
+Pyparsing/pyparsing. (2022). [Python]. Pyparsing. https://github.com/pyparsing/pyparsing (Original work published 2017)
+Python/importlib_metadata. (2022). [Python]. Python. https://github.com/python/importlib_metadata (Original work published 2020)
+Static Typing for Python. (2022). [Python]. Python. https://github.com/python/typing (Original work published 2014)
+Stub. (2022). Pytz [C]. https://github.com/stub42/pytz (Original work published 2016)
+Welcome to Kiwi. (2022). [C++]. nucleic. https://github.com/nucleic/kiwi (Original work published 2013)
+Welcome to Pygments. (2022). [Python]. pygments. https://github.com/pygments/pygments (Original work published 2019)
